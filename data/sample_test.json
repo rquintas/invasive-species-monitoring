@@ -1,0 +1,28 @@
+{
+    "train_loss": [], 
+    "imgsize": "256x256", 
+    "sample": false, 
+    "balanced": true, 
+    "nfolds": 5, 
+    "id": "sample_test", 
+    "prediction_augmented": true, 
+    "sanity": false, 
+    "model": "deeper vgg16 finetune", 
+    "validation_loss": [], 
+    "history": [
+        {
+            "acc": [
+                0.25
+            ], 
+            "loss": [
+                1.6846280097961426
+            ], 
+            "val_acc": [
+                0.5
+            ], 
+            "val_loss": [
+                1.1546313762664795
+            ]
+        }
+    ]
+}
